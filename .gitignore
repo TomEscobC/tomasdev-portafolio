@@ -12,7 +12,7 @@ dist/
 build/
 
 # GitHub Pages cache
-node_modules/.cache/gh-pages/
+!node_modules/.cache/gh-pages/
 
 # System files
 .DS_Store
